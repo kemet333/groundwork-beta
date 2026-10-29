@@ -1,0 +1,1 @@
+__d(function(g,r,i,a,m,e,d){"use strict";Object.defineProperty(e,'__esModule',{value:!0}),Object.defineProperty(e,"default",{enumerable:!0,get:function(){return c}}),r(d[0]);var t=r(d[1]),n=r(d[2]),u=r(d[3]),o=r(d[4]);function c(){const{id:c}=(0,t.useLocalSearchParams)();return(0,o.jsx)(u.BookingReview,{app:(0,n.useAppShell)().app,id:c})}},766,[12,778,776,786,6]);

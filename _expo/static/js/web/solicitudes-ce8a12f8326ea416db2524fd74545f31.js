@@ -1,0 +1,1 @@
+__d(function(g,r,i,a,m,e,d){"use strict";Object.defineProperty(e,'__esModule',{value:!0}),Object.defineProperty(e,"default",{enumerable:!0,get:function(){return p}}),r(d[0]);var t=r(d[1]),u=r(d[2]),n=r(d[3]);function p(){return(0,n.jsx)(u.CoachRequests,{app:(0,t.useAppShell)().app})}},770,[12,776,785,6]);

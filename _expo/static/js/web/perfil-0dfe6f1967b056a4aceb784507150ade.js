@@ -1,0 +1,1 @@
+__d(function(g,r,i,a,m,e,d){"use strict";Object.defineProperty(e,'__esModule',{value:!0}),Object.defineProperty(e,"default",{enumerable:!0,get:function(){return u}}),r(d[0]);var n=r(d[1]),t=r(d[2]),o=r(d[3]);function u(){const u=(0,n.useAppShell)();return(0,o.jsx)(t.ProfileScreen,{app:u.app,open:u.open,onPlan:u.onPlan})}},774,[12,776,784,6]);

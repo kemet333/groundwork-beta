@@ -1,0 +1,1 @@
+__d(function(g,r,i,a,m,e,d){"use strict";Object.defineProperty(e,'__esModule',{value:!0}),Object.defineProperty(e,"default",{enumerable:!0,get:function(){return o}}),r(d[0]);var t=r(d[1]),u=r(d[2]),n=r(d[3]),c=r(d[4]);function o(){const{id:o}=(0,t.useLocalSearchParams)();return(0,c.jsx)(n.CoachRequestDetail,{app:(0,u.useAppShell)().app,id:o})}},769,[12,778,776,785,6]);
